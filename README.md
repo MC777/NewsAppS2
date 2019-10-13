@@ -3,7 +3,7 @@ One of the project for Udacity (Google Challenge Scholarship: Android Basics)
 
 ## Description:
 This is a News application created for Udacity (Google Challenge Scholarship: Android Basics).
-NewsApp is using one of the api from this site content.guardianapis.com to show the most popular news in category selected by user in settings. Each row in the application redirects to Guardian's news page.
+NewsApp is using one of the API from this site content.guardianapis.com to show the most popular news in category selected by user in settings. Each row in the application redirects to Guardian's news page.
 
 ## Screenshots:
 ![screenshot_1](https://user-images.githubusercontent.com/34196498/50044472-1769bf00-0084-11e9-86db-f244f4aca07d.png)
